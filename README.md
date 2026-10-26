@@ -1,4 +1,4 @@
-# Olá, eu sou o Felipe Alirio Baruja 👋
+# Olá, eu sou o Felipe Baruja 👋
 
 **Construtor de produtos de dados com rigor estatístico e capacidade full-stack.**
 
