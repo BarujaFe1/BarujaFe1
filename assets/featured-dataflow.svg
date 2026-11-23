@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="340" viewBox="0 0 960 340" role="img" aria-labelledby="title desc">
+<title id="title">DataFlow — featured data quality lab</title>
+<desc id="desc">Local-first data profiling, explainable quality signals and auditable cleaning. Lab/demo project.</desc>
+<defs><pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#282348" stroke-width="1"/></pattern></defs>
+<rect width="960" height="340" rx="16" fill="#101126"/>
+<rect x="1" y="1" width="958" height="338" rx="16" fill="url(#grid)" stroke="#6550a4"/>
+<path d="M24 2H220M740 338H936" stroke="#b85aff" stroke-width="3"/>
+<g font-family="ui-monospace, SFMono-Regular, Consolas, monospace">
+<text x="32" y="44" fill="#55dcff" font-size="17" >FEATURED PROJECT / DATA QUALITY LAB</text><path d="M34 83l30-17 30 17-30 17zM34 101l30 17 30-17M34 119l30 17 30-17" fill="none" stroke="#55dcff" stroke-width="7"/><text x="116" y="123" fill="#f0eeff" font-size="55" font-weight="700">DataFlow</text><text x="32" y="177" fill="#f0eeff" font-size="28" >Understand your data.</text><text x="32" y="214" fill="#c8cce8" font-size="23" >Explain the signals behind the score.</text><text x="32" y="268" fill="#c48bff" font-size="18" >PROFILE  /  INVESTIGATE  /  CLEAN</text><text x="32" y="306" fill="#a6a8c6" font-size="17" >Local-first · Explainable · Privacy-conscious</text><rect x="645" y="70" width="281" height="214" rx="8" fill="#181a38" stroke="#6550a4"/><text x="665" y="100" fill="#55dcff" font-size="16" >QUALITY EXPLORER</text><rect x="669" y="200" width="24" height="36" fill="#6550a4"/><rect x="705" y="178" width="24" height="58" fill="#9363da"/><rect x="741" y="188" width="24" height="48" fill="#b85aff"/><rect x="777" y="146" width="24" height="90" fill="#55dcff"/><rect x="813" y="166" width="24" height="70" fill="#36b6d5"/><rect x="849" y="126" width="24" height="110" fill="#74efd3"/><text x="665" y="265" fill="#a6a8c6" font-size="13" >ILLUSTRATIVE UI</text>
+</g></svg>
