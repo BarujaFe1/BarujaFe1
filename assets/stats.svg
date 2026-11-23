@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="328" viewBox="0 0 960 328" role="img" aria-labelledby="title desc">
+<title id="title">Felipe Baruja — GitHub activity</title>
+<desc id="desc">895 contributions, 795 commit contributions and 43 pull requests from 2025-11-23 to 2026-11-24.</desc>
+<defs><pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#282348" stroke-width="1"/></pattern></defs>
+<rect width="960" height="328" rx="16" fill="#101126"/>
+<rect x="1" y="1" width="958" height="326" rx="16" fill="url(#grid)" stroke="#6550a4"/>
+<path d="M24 2H220M740 326H936" stroke="#b85aff" stroke-width="3"/>
+<g font-family="ui-monospace, SFMono-Regular, Consolas, monospace">
+<text x="32" y="44" fill="#55dcff" font-size="17" >GITHUB / ACTIVITY</text><text x="32" y="78" fill="#f0eeff" font-size="24" >@BarujaFe1 · last year</text><path d="M32 98H928" stroke="#393158"/><rect x="32" y="121" width="8" height="8" fill="#55dcff"/><text x="32" y="189" fill="#f0eeff" font-size="54" font-weight="700">895</text><text x="32" y="222" fill="#c8cce8" font-size="21" >Contributions</text><rect x="350" y="121" width="8" height="8" fill="#c48bff"/><text x="350" y="189" fill="#f0eeff" font-size="54" font-weight="700">795</text><text x="350" y="222" fill="#c8cce8" font-size="21" >Commit contributions</text><rect x="668" y="121" width="8" height="8" fill="#74efd3"/><text x="668" y="189" fill="#f0eeff" font-size="54" font-weight="700">43</text><text x="668" y="222" fill="#c8cce8" font-size="21" >Pull requests</text><text x="32" y="267" fill="#b49adf" font-size="18" >Reviews 0  /  Issues 0</text><text x="32" y="301" fill="#a6a8c6" font-size="17" >2025-11-23 → 2026-11-24 UTC · API snapshot</text>
+</g></svg>
